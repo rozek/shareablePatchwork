@@ -4,6 +4,8 @@
 
 ![Screenshot](./shareableSketchbook-Screenshot.png)
 
+(preliminary Screenshot of a [shareableSketchbook](https://github.com/rozek/shareableSketchbook))
+
 ## License ##
 
 [MIT License](LICENSE.md)
