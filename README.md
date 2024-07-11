@@ -1,10 +1,10 @@
 # shareablePatchwork #
 
-(this page is currently just a placeholder for the final development goal, please visit [shareableSketchbook](https://github.com/rozek/shareableSketchbook) for the next development step)
+(this page is currently just a placeholder for the final development goal, please visit [NoteStickers](https://github.com/rozek/note-stickers) for the first development step)
 
 ![Screenshot](./shareableSketchbook-Screenshot.png)
 
-(preliminary Screenshot of a [shareableSketchbook](https://github.com/rozek/shareableSketchbook))
+(preliminary Screenshot of a "shareablePatchwork")
 
 "ShareablePatchwork" (SPW) is a free and open-source, personal, web-based cross-platform creativity workspace. It can be used for note-taking, simulations and animations, as a PowerPoint alternative "on steroids" but also for VR/AR experiences and AI applications.
 
